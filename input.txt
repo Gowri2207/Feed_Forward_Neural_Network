@@ -1,0 +1,11 @@
+learning_rate 0.01
+momentum 0.5
+number_of_hidden_layers 3
+Number_of_neurons_in_each_hidden_layer 100,100,100
+Activation_func sigmoid
+loss cross_entropy
+Optimizer adam
+batch_size 20
+epochs 40
+beta1 0.9
+beta2 0.999
